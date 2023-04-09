@@ -61,14 +61,14 @@ SP03\_\_ is an amazing team built by the efforts of its team members and the sup
 
 ### Team
 
-Person1<br>
-Person2<br>
-Person3<br>
-Person4<br>
+Manvendra Shekhawat<br>
+Dhruv Saini<br>
+Ritik Sotwal<br>
+Neeraj Gupta<br>
 
 ### Mentor
 
-Mentor1
+Naman Sharma
 
 ## Weekly/Monthly Logs
 
